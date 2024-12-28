@@ -1,0 +1,7 @@
+D:\Coding Coba\Belajar Sisap\LatihanSoalKedua\LatihanSoalKedua\bin\Debug\LatihanSoalKedua.exe.config
+D:\Coding Coba\Belajar Sisap\LatihanSoalKedua\LatihanSoalKedua\bin\Debug\LatihanSoalKedua.exe
+D:\Coding Coba\Belajar Sisap\LatihanSoalKedua\LatihanSoalKedua\bin\Debug\LatihanSoalKedua.pdb
+D:\Coding Coba\Belajar Sisap\LatihanSoalKedua\LatihanSoalKedua\obj\Debug\LatihanSoalKedua.csproj.AssemblyReference.cache
+D:\Coding Coba\Belajar Sisap\LatihanSoalKedua\LatihanSoalKedua\obj\Debug\LatihanSoalKedua.csproj.CoreCompileInputs.cache
+D:\Coding Coba\Belajar Sisap\LatihanSoalKedua\LatihanSoalKedua\obj\Debug\LatihanSoalKedua.exe
+D:\Coding Coba\Belajar Sisap\LatihanSoalKedua\LatihanSoalKedua\obj\Debug\LatihanSoalKedua.pdb

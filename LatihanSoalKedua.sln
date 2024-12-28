@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatihanSoalKedua", "LatihanSoalKedua\LatihanSoalKedua.csproj", "{DFEABA7B-CA1D-49FD-9C18-5FA7D206301B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFEABA7B-CA1D-49FD-9C18-5FA7D206301B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFEABA7B-CA1D-49FD-9C18-5FA7D206301B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFEABA7B-CA1D-49FD-9C18-5FA7D206301B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFEABA7B-CA1D-49FD-9C18-5FA7D206301B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
